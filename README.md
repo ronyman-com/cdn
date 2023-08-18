@@ -1,1 +1,1 @@
-# getweb
+# cdn
